@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**anudeshpande24/anudeshpande24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a [Data Science Student] with expertise in [Machine Learning]. Currently working on [Current Projects/Interests].
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: Python, JavaScript, etc.
+- Frameworks/Libraries: React, TensorFlow, etc.
+- Tools: Docker, Git, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### [Project Name]
+- **Description**: Brief description of the project.
+- **Technologies**: List of technologies used.
+- **Demo**: [Live Demo Link] (if available)
+- **Repo**: [GitHub Repository Link]
+
+### [Another Project]
+- **Description**: Brief description of the project.
+- **Technologies**: List of technologies used.
+- **Demo**: [Live Demo Link] (if available)
+- **Repo**: [GitHub Repository Link]
+
+## Achievements
+- [Achievement 1]
+- [Achievement 2]
+
+## Contact
+- [LinkedIn Profile]
+- [Email Address]
+
