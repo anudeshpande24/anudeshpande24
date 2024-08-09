@@ -1,7 +1,7 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Anagha 👋
 
 ## About Me
-I'm a [Data Science Student] with expertise in [Machine Learning]. Currently working on [Current Projects/Interests].
+I'm a Data Science Student with expertise in Machine Learning.
 
 ## Skills
 - Programming Languages: Python, JavaScript, etc.
