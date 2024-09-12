@@ -10,25 +10,25 @@ I am a data scientist with over 2 years of experience, specializing in machine l
 - Certifications: AWS Academy Cloud Foundations, Sql for Data Analytics, Data Science for Engineers, Machine Learning
 
 ## Projects
-### [Credit Fraud Detection]
+### Credit Fraud Detection
 - **Description**: eveloped and evaluated fraud detection models using neural networks leveraging Grid Search CV highlighting insights on fraud patterns and trends for stakeholders.
 - **Technologies**: Neural Networks, Fraud Patterns SMOTE Technique, t-SNE.
 - **Repo**: [https://github.com/anudeshpande24/Credit-card-fraud-detection]
 
-### [Drug Category Classification]
+### Drug Category Classification
 - **Description**: Engineered and deployed a BERT transformer model for drug category classification on MIMIC-III Clinical Data, utilizing tokenization for precise text processing and analysis, and deployed the system using Flask and Docker..
 - **Technologies**: BERT, Flask , Docker 
 - **Repo**: [https://github.com/anudeshpande24/Drug-cat-classification]
 
-### [ Time series Forecasting using LLMs]
+###  Time series Forecasting using LLMs
 - **Description**: • Utilized GPT-2, a large language model, to predict monthly air passenger numbers, incorporating data preprocessing, model training, and fine-tuning, achieving an MSE of 3000.
 - **Technologies**: GPT-2 
 
 ## Achievements
-- [First Position - IEEE Regional Level Website Development Competition]
-- [Second Position - State Level Debate Competition]
+- First Position - IEEE Regional Level Website Development Competition
+- Second Position - State Level Debate Competition
 
 ## Contact
-- [https://www.linkedin.com/in/Adeshpande24]
-- [deshpandeanagha459@gmail.com]
+- https://www.linkedin.com/in/Adeshpande24
+- deshpandeanagha459@gmail.com
 
