@@ -23,7 +23,6 @@ I am a data scientist with over 2 years of experience, specializing in machine l
 ### [ Time series Forecasting using LLMs]
 - **Description**: • Utilized GPT-2, a large language model, to predict monthly air passenger numbers, incorporating data preprocessing, model training, and fine-tuning, achieving an MSE of 3000.
 - **Technologies**: GPT-2 
-- **Repo**:
 
 ## Achievements
 - [First Position - IEEE Regional Level Website Development Competition]
